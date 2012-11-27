@@ -2,5 +2,10 @@
 
 main()
 {
-printf("Hello, world!\n");
+	int i;
+
+	for (i = 0; i < 4; i++)
+	{
+		printf("Hello, world!\n");
+	}
 }
